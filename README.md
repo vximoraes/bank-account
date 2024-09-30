@@ -31,3 +31,6 @@ Your current balance is: 2500.0
 - Receive Money: Users can add a specified amount to their account balance.
 - Transfer Money: Users can transfer funds to another account, as long as they have sufficient funds.
 - Exit the program: Users can exit the program anytime.
+
+## Contributing
+Contributions are welcome! If you have ideas to refactor the code for better efficiency or cleaner design, feel free to open a pull request or submit an issue with your suggestion.
