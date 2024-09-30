@@ -25,3 +25,9 @@ Your current balance is: 2500.0
 ## Technologies
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Features
+- Check Balance: Users can view the current balance of their account.
+- Receive Money: Users can add a specified amount to their account balance.
+- Transfer Money: Users can transfer funds to another account, as long as they have sufficient funds.
+- Exit the program: Users can exit the program anytime.
