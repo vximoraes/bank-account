@@ -22,6 +22,14 @@ Enter your option: 1
 Your current balance is: 2500.0
 ```
 
+## How It Works
+When the program starts, it displays the customer's initial account details (name, account type, and balance). After that, a menu with the following options appears:
+
+Check balance: Displays the current balance.
+Receive value: Asks for an amount to add to the balance.
+Transfer value: Prompts for an amount to subtract from the balance (if sufficient).
+Exit: Ends the program.
+
 ## Technologies
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
