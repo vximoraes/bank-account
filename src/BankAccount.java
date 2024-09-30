@@ -41,8 +41,9 @@ public class BankAccount {
                 int amountTransferred = input.nextInt();
                 if (amountTransferred > balance) {
                     System.out.println("\nYou don't have that amount of money!");
+                } else {
+                    balance -= amountTransferred;
                 }
-                balance -= amountTransferred;
             } else if (option != 4) {
                 System.out.println("\nInvalid option!");
             }
